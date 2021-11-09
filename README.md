@@ -12,12 +12,19 @@ TEORIA DE FUNDAMENTOS DE CIRCUITOS
 
 NRC: 10149
 
-
 INTEGRANTES:
 
 • Flores Arévalo André Josefat
 
 • Alvarado Nevárez Diego José 
 
-
 TEMAS: Cantidades y Unidades / Voltaje, corriente y Resistencia
+
+OBJETIVOS:
+
+General:
+
+
+
+Espesificos:
+
