@@ -24,7 +24,16 @@ OBJETIVOS:
 
 General:
 
-
+Fundamentar los conocimientos impartidos en clase mediante la realización de ejercicios y repaso de teoría.
 
 Espesificos:
 
+-Realizar un analisis del estandar SI
+
+-Utilizar la notación científica para la representación de grandes unidades numéricas
+
+-Aprender acerca de la notación de ingeniería y sus prefijos para facilitar la representación de tanto cantidades grandes como pequeñas, además de la conversión de un prefijo métrico a otro
+
+-Conceptar términos basicos de medición para trabajar con un Circuito Eléctrico
+
+-Examinar los diversos instrumentos de medición entendiendo su uso y función.
