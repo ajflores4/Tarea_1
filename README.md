@@ -1,6 +1,8 @@
 # Tarea_1
-Tarea de Fundamentos en circuitos eléctricos
+
 DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
+
+Tarea de Fundamentos en circuitos eléctricos
 
 INSTRUCTOR: DARWIN ALULEMA
 
