@@ -41,11 +41,15 @@ Espesificos:
 **Marco Teórico**
 
 **Sección 1**
+
 [![Whats-App-Image-2021-11-09-at-4-28-11-AM.jpg](https://i.postimg.cc/T2F0RpZ6/Whats-App-Image-2021-11-09-at-4-28-11-AM.jpg)](https://postimg.cc/XXKdL7jH)
 [![Whats-App-Image-2021-11-09-at-4-28-11-AM-1.jpg](https://i.postimg.cc/dQLnP8N6/Whats-App-Image-2021-11-09-at-4-28-11-AM-1.jpg)](https://postimg.cc/G9nvvsCT)
 [![Whats-App-Image-2021-11-09-at-4-28-11-AM-2.jpg](https://i.postimg.cc/RqxVFSLR/Whats-App-Image-2021-11-09-at-4-28-11-AM-2.jpg)](https://postimg.cc/LgvMQM7Y)
 
 **Sección 2**
 [![Untitled.jpg](https://i.postimg.cc/tJx4pZWJ/Untitled.jpg)](https://postimg.cc/JHRLQhTC)
+
+**Ejercicios**
+
 
 
