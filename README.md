@@ -51,5 +51,7 @@ Espesificos:
 
 **Ejercicios**
 
+https://github.com/ajflores4/Tarea_1/blob/43683858fd5ac6175b8cd3e82b8f51800ed95394/SECCION%201%20DIEGO%20ALVARADO.pdf
+
 
 
