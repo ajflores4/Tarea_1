@@ -45,7 +45,7 @@ Espesificos:
 [![Whats-App-Image-2021-11-09-at-4-28-11-AM-1.jpg](https://i.postimg.cc/dQLnP8N6/Whats-App-Image-2021-11-09-at-4-28-11-AM-1.jpg)](https://postimg.cc/G9nvvsCT)
 [![Whats-App-Image-2021-11-09-at-4-28-11-AM-2.jpg](https://i.postimg.cc/RqxVFSLR/Whats-App-Image-2021-11-09-at-4-28-11-AM-2.jpg)](https://postimg.cc/LgvMQM7Y)
 
-**SEcción 2**
+**Sección 2**
 [![Untitled.jpg](https://i.postimg.cc/tJx4pZWJ/Untitled.jpg)](https://postimg.cc/JHRLQhTC)
 
 
