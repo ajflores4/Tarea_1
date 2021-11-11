@@ -53,5 +53,16 @@ Espesificos:
 
 https://github.com/ajflores4/Tarea_1/blob/43683858fd5ac6175b8cd3e82b8f51800ed95394/SECCION%201%20DIEGO%20ALVARADO.pdf
 
+https://github.com/ajflores4/Tarea_1/blob/401f865db4d8132abaf683b5b3cbdb25e704f70e/SECCION%202%20ANDRE%20FLORES.pdf
 
+**Concluciones**
+
+
+
+**Recomendaciones**
+
+
+**Referencias**
+
+github.com
 
